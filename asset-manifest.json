@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.9babb17f.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.c98ad9b3.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.c98ad9b3.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.d9c887be.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.d9c887be.js.map",
+    "static/js/2.3e5c8767.chunk.js": "/react-portfolio/static/js/2.3e5c8767.chunk.js",
+    "static/js/2.3e5c8767.chunk.js.map": "/react-portfolio/static/js/2.3e5c8767.chunk.js.map",
+    "static/js/3.da5b259b.chunk.js": "/react-portfolio/static/js/3.da5b259b.chunk.js",
+    "static/js/3.da5b259b.chunk.js.map": "/react-portfolio/static/js/3.da5b259b.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/main.9babb17f.chunk.css.map": "/react-portfolio/static/css/main.9babb17f.chunk.css.map",
+    "static/js/2.3e5c8767.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.3e5c8767.chunk.js.LICENSE.txt",
+    "static/media/Screenshot 2020-12-24 182932.125f303a.png": "/react-portfolio/static/media/Screenshot 2020-12-24 182932.125f303a.png",
+    "static/media/Screenshot 2021-01-08 235410.ae2aeb9f.png": "/react-portfolio/static/media/Screenshot 2021-01-08 235410.ae2aeb9f.png",
+    "static/media/Screenshot 2021-01-09 000744.7e792795.png": "/react-portfolio/static/media/Screenshot 2021-01-09 000744.7e792795.png",
+    "static/media/char-sheet.5e2708eb.png": "/react-portfolio/static/media/char-sheet.5e2708eb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9c887be.js",
+    "static/js/2.3e5c8767.chunk.js",
+    "static/css/main.9babb17f.chunk.css",
+    "static/js/main.c98ad9b3.chunk.js"
+  ]
+}
